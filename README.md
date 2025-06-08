@@ -48,12 +48,10 @@ Over the past four weeks (Weeks 7–10), I’ve made significant progress on two
 
 ### 🔗 Links & Visuals
 
-*GitHub links (if public):*
-🔗 Belinda’s Closet Repo: *\[Insert link]*
-🔗 NSC Events Repo: *\[Insert link]*
+*GitHub links:*
+🔗 Belinda’s Closet Repo: https://github.com/SeattleColleges/belindas-closet-nextjs
+🔗 NSC Events Repo: https://github.com/SeattleColleges/nsc-events-nextjs
 
-*Screenshots/Test Output (optional):*
-🖼️ \[Include image of test output or component UI if permitted]
 
 ---
 
