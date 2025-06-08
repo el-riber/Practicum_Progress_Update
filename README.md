@@ -1,7 +1,3 @@
-Here’s a **professional LinkedIn-style post draft** you can use to fulfill your practicum reflection assignment. It summarizes your technical work on both the **Belinda’s Closet** and **NSC Events** projects over the past 4 weeks and follows all the assignment requirements.
-
----
-
 ## ✨ Practicum Progress Update – Application Development @ North Seattle College
 
 Over the past four weeks (Weeks 7–10), I’ve made significant progress on two full-stack practicum projects: **Belinda’s Closet** and **NSC Events**. Both are real-world applications serving our college community, and I’m excited to share what I’ve been working on as part of the Application Development BAS program.
